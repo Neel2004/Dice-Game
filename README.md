@@ -1,4 +1,4 @@
-# flutter_app_main_course
+# Dice Game
 
 A new Flutter project.
 
